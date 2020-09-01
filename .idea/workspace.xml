@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c38ce5-9101-406d-b483-6b80f73d2be5" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/StaticPages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/StaticPages/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
-    </list>
+    <list default="true" id="e9c38ce5-9101-406d-b483-6b80f73d2be5" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -126,15 +114,6 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
       <path value="$PROJECT_DIR$/vendor/sebastian/version" />
       <path value="$PROJECT_DIR$/vendor/sebastian/type" />
-      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
-      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
-      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
-      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
-      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
-      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
@@ -148,20 +127,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dan\Code\weibo\resources\views\StaticPages" />
-      <recent name="C:\Users\dan\Code\weibo\tests\helper" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -177,49 +145,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598888423387</updated>
-      <workItem from="1598888424593" duration="2137000" />
-      <workItem from="1598890589160" duration="10062000" />
+      <workItem from="1598888424593" duration="436000" />
     </task>
     <servers />
-  </component>
-  <component name="TerminalProjectNonSharedOptionsProvider">
-    <option name="shellPath" value="C:\Users\dan\Downloads\Git\bin\bash.exe" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="246" y="4" key="#CLI_Interpreters" timestamp="1598890556538">
+    <state x="390" y="159" key="EditFileWatcherDialog" timestamp="1598946897082">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="246" y="4" key="#CLI_Interpreters/0.0.1536.864@0.0.1536.864" timestamp="1598890556538" />
-    <state x="638" y="353" key="#com.jetbrains.php.framework.ui.FailedToParseDialog" timestamp="1598890663227">
+    <state x="390" y="159" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1598946897082" />
+    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1598946867802">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="638" y="353" key="#com.jetbrains.php.framework.ui.FailedToParseDialog/0.0.1536.864@0.0.1536.864" timestamp="1598890663227" />
-    <state x="478" y="279" key="ComposerCompositePathDialog" timestamp="1598890452031">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="478" y="279" key="ComposerCompositePathDialog/0.0.1536.864@0.0.1536.864" timestamp="1598890452031" />
-    <state x="496" y="112" key="FileChooserDialogImpl" timestamp="1598893429679">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="496" y="112" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598893429679" />
-    <state x="153" y="0" key="SettingsEditor" timestamp="1598895322125">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="153" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598895322125" />
-    <state x="535" y="260" width="466" height="351" key="SymfonyComponentCompositeDataDialog" timestamp="1598891767939">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="535" y="260" width="466" height="351" key="SymfonyComponentCompositeDataDialog/0.0.1536.864@0.0.1536.864" timestamp="1598891767939" />
-    <state x="654" y="0" width="323" height="864" key="ftp.server.browser" timestamp="1598890352639">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="654" y="0" width="323" height="864" key="ftp.server.browser/0.0.1536.864@0.0.1536.864" timestamp="1598890352639" />
-    <state x="347" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1598944733929">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="347" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1598944733929" />
+    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1598946867802" />
   </component>
 </project>
