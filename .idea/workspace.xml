@@ -4,15 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c38ce5-9101-406d-b483-6b80f73d2be5" name="默认的" comment="" />
+    <list default="true" id="e9c38ce5-9101-406d-b483-6b80f73d2be5" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/weibo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weibo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -118,6 +130,18 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/version" />
       <path value="$PROJECT_DIR$/vendor/sebastian/type" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/caouecs/laravel-lang" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/laravel-lang" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/tests/ide_helper" />
     </include_path>
   </component>
   <component name="ProjectId" id="1gs1KfSYUollVt9YqAj2RK49vy2" />
@@ -129,14 +153,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/ide_helper" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
+    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dan\Code\weibo\tests\ide_helper" />
       <recent name="C:\Users\dan\Code\weibo\resources\views\users" />
     </key>
   </component>
@@ -155,6 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598888423387</updated>
       <workItem from="1598888424593" duration="436000" />
+      <workItem from="1598978093601" duration="157000" />
     </task>
     <servers />
   </component>
@@ -174,14 +200,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="390" y="159" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1598946897082" />
-    <state x="508" y="107" key="FileChooserDialogImpl" timestamp="1598958350115">
+    <state x="508" y="107" key="FileChooserDialogImpl" timestamp="1598977998226">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="508" y="107" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598958350115" />
-    <state x="153" y="0" key="SettingsEditor" timestamp="1598958433132">
+    <state x="508" y="107" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598977998226" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1598978250349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="153" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598958433132" />
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598978250349" />
     <state x="535" y="260" width="466" height="351" key="SymfonyComponentCompositeDataDialog" timestamp="1598958429833">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -198,9 +224,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="341" y="193" width="840" height="1034" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1598948428755" />
-    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1598971635154">
+    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1598978198298">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1598971635154" />
+    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1598978198298" />
   </component>
 </project>
