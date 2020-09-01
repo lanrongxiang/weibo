@@ -1613,10 +1613,10 @@ function isFormData(val) {
 }
 
 /**
- * Determine if a value is a views on an ArrayBuffer
+ * Determine if a value is a view on an ArrayBuffer
  *
  * @param {Object} val The value to test
- * @returns {boolean} True if value is a views on an ArrayBuffer, otherwise false
+ * @returns {boolean} True if value is a view on an ArrayBuffer, otherwise false
  */
 function isArrayBufferView(val) {
   var result;
@@ -21763,9 +21763,9 @@ return jQuery;
      * Creates a clone of `dataView`.
      *
      * @private
-     * @param {Object} dataView The data views to clone.
+     * @param {Object} dataView The data view to clone.
      * @param {boolean} [isDeep] Specify a deep clone.
-     * @returns {Object} Returns the cloned data views.
+     * @returns {Object} Returns the cloned data view.
      */
     function cloneDataView(dataView, isDeep) {
       var buffer = isDeep ? cloneArrayBuffer(dataView.buffer) : dataView.buffer;
@@ -23302,14 +23302,14 @@ return jQuery;
     }
 
     /**
-     * Gets the views, applying any `transforms` to the `start` and `end` positions.
+     * Gets the view, applying any `transforms` to the `start` and `end` positions.
      *
      * @private
-     * @param {number} start The start of the views.
-     * @param {number} end The end of the views.
-     * @param {Array} transforms The transformations to apply to the views.
+     * @param {number} start The start of the view.
+     * @param {number} end The end of the view.
+     * @param {Array} transforms The transformations to apply to the view.
      * @returns {Object} Returns an object containing the `start` and `end`
-     *  positions of the views.
+     *  positions of the view.
      */
     function getView(start, end, transforms) {
       var index = -1,
@@ -32508,15 +32508,15 @@ return jQuery;
      * @returns {Object} Returns `object`.
      * @example
      *
-     * var views = {
+     * var view = {
      *   'label': 'docs',
      *   'click': function() {
      *     console.log('clicked ' + this.label);
      *   }
      * };
      *
-     * _.bindAll(views, ['click']);
-     * jQuery(element).on('click', views.click);
+     * _.bindAll(view, ['click']);
+     * jQuery(element).on('click', view.click);
      * // => Logs 'clicked docs' when clicked.
      */
     var bindAll = flatRest(function(object, methodNames) {
@@ -36709,7 +36709,7 @@ var modifiers = {
    * Applies the computed styles to the popper element.
    *
    * All the DOM manipulations are limited to this modifier. This is useful in case
-   * you want to integrate Popper.js inside a framework or views library and you
+   * you want to integrate Popper.js inside a framework or view library and you
    * want to delegate all the DOM manipulations to it.
    *
    * Note that if you disable this modifier, you must make sure the popper element

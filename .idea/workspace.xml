@@ -190,13 +190,17 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="567" y="307" key="SymfonyPathDialog/0.0.1536.864@0.0.1536.864" timestamp="1598958339176" />
+    <state x="400" y="87" width="735" height="690" key="find.popup" timestamp="1598959049314">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="400" y="87" width="735" height="690" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1598959049314" />
     <state x="341" y="193" width="840" height="1034" key="run.anything.popup" timestamp="1598948428755">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="341" y="193" width="840" height="1034" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1598948428755" />
-    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1598958871344">
+    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1598970640991">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1598958871344" />
+    <state x="341" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1598970640991" />
   </component>
 </project>
