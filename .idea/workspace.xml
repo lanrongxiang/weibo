@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9c38ce5-9101-406d-b483-6b80f73d2be5" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Policies/UserPolicy.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Policies/UserPolicy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/users/_user.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/_user.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +146,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/ide_helper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../www.signatorychain.com/app/Http/Controllers/WechatController.php" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -182,6 +178,7 @@
       <workItem from="1598888424593" duration="436000" />
       <workItem from="1598978093601" duration="1263000" />
       <workItem from="1598979395478" duration="3736000" />
+      <workItem from="1599103985578" duration="1005000" />
     </task>
     <servers />
   </component>
@@ -212,10 +209,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="390" y="159" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1598946897082" />
-    <state x="508" y="107" key="FileChooserDialogImpl" timestamp="1598979137109">
+    <state x="508" y="107" key="FileChooserDialogImpl" timestamp="1599104007597">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="508" y="107" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598979137109" />
+    <state x="508" y="107" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599104007597" />
     <state x="153" y="0" key="SettingsEditor" timestamp="1599040724932">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
